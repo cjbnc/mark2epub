@@ -1,4 +1,4 @@
-Cranberry Gelatin Salad
+# Cranberry Gelatin Salad
   
 - 2 pkg sugarfree jello (I use Raspberry and Lemon or Raspberry and Orange)
 - 1 12 oz package cranberries - (about 3 cups)
