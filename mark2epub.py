@@ -170,7 +170,7 @@ def get_coverpage_XML(cover_image_path):
 
     return all_xhtml
 
-def get_TOC_XML(default_css_filenames,markdown_filenames):
+def get_TOC_XML(default_css_filenames,markdown_filenames,titles):
     ## Returns the XML data for the TOC.xhtml file
 
     toc_xhtml = """<?xml version="1.0" encoding="UTF-8"?>\n"""
@@ -184,12 +184,12 @@ def get_TOC_XML(default_css_filenames,markdown_filenames):
     toc_xhtml += """</head>\n<body>\n"""
     toc_xhtml += """<nav epub:type="toc" role="doc-toc" id="toc">\n<h2>Contents</h2>\n<ol epub:type="list">"""
     for i,md_filename in enumerate(markdown_filenames):
-        toc_xhtml += """<li><a href="s{:05d}-{}.xhtml">{}</a></li>""".format(i,md_filename.split(".")[0],md_filename.split(".")[0])
+        toc_xhtml += """<li><a href="s{:05d}-{}.xhtml">{}</a></li>""".format(i,md_filename.split(".")[0],titles[i])
     toc_xhtml += """</ol>\n</nav>\n</body>\n</html>"""
 
     return toc_xhtml
 
-def get_TOCNCX_XML(markdown_filenames):
+def get_TOCNCX_XML(markdown_filenames,titles):
     ## Returns the XML data for the TOC.ncx file
 
     toc_ncx = """<?xml version="1.0" encoding="UTF-8"?>\n"""
@@ -198,7 +198,7 @@ def get_TOCNCX_XML(markdown_filenames):
     toc_ncx += """<navMap>\n"""
     for i,md_filename in enumerate(markdown_filenames):
         toc_ncx += """<navPoint id="navpoint-{}">\n""".format(i)
-        toc_ncx += """<navLabel>\n<text>{}</text>\n</navLabel>""".format(md_filename.split(".")[0])
+        toc_ncx += """<navLabel>\n<text>{}</text>\n</navLabel>""".format(titles[i])
         toc_ncx += """<content src="s{:05d}-{}.xhtml"/>""".format(i,md_filename.split(".")[0])
         toc_ncx += """ </navPoint>"""
     toc_ncx += """</navMap>\n</ncx>"""
@@ -249,10 +249,15 @@ if __name__ == "__main__":
         json_data = json.load(f)
 
     all_md_filenames=[]
+    all_titles=[]
     all_css_filenames=json_data["default_css"][:]
     for chapter in json_data["chapters"]:
         if not chapter["markdown"] in all_md_filenames:
             all_md_filenames.append(chapter["markdown"])
+            if "title" in chapter and len(chapter["title"]):
+                all_titles.append(chapter["title"])
+            else:
+                all_titles.append(chapter["markdown"].split(".")[0])
         if len(chapter["css"]) and (not chapter["css"] in all_css_filenames):
             all_css_filenames.append(chapter["css"])
     all_image_filenames = get_all_filenames(images_dir,extensions=["gif","jpg","jpeg","png"])
@@ -295,11 +300,11 @@ if __name__ == "__main__":
 
 
         ## Writing the TOC.xhtml file
-        toc_xml_data = get_TOC_XML(json_data["default_css"],all_md_filenames)
+        toc_xml_data = get_TOC_XML(json_data["default_css"],all_md_filenames,all_titles)
         myZipFile.writestr("OPS/TOC.xhtml",toc_xml_data.encode('utf-8'),zipfile.ZIP_DEFLATED)
 
         ## Writing the TOC.ncx file
-        toc_ncx_data = get_TOCNCX_XML(all_md_filenames)
+        toc_ncx_data = get_TOCNCX_XML(all_md_filenames,all_titles)
         myZipFile.writestr("OPS/toc.ncx",toc_ncx_data.encode('utf-8'),zipfile.ZIP_DEFLATED)
 
         ## Copy image files
