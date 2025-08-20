@@ -1,8 +1,5 @@
 # Kellie's Favorite Toast Bread (KFTB)
 
-Based on 
-[Foolproof Sandwich Bread](https://www.attainable-sustainable.net/homemade-sandwich-bread/)
-
 Night before -
 
 - 5 oz (145g) rye flour
@@ -72,4 +69,7 @@ Wet ingredients
 - 8 oz shredded sharp cheddar cheese
 
 Makes one big ~2lb round loaf, or make 7x 156g bread bowls from this.
+
+Based on 
+[Foolproof Sandwich Bread](https://www.attainable-sustainable.net/homemade-sandwich-bread/)
 

@@ -16,6 +16,7 @@
 "cover_image":"cover.png",
 "default_css":["general.css"],
 "chapters":[
+            {"markdown":"hazelnut_torte.md","css":"","title":"Hazelnut Torte"},
             {"markdown":"kftb.md","css":"","title":"Kellie's Favorite Toast Bread"}
         ]
 }
