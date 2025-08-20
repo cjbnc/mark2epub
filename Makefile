@@ -1,4 +1,4 @@
-recipe_book.epub:
+recipe_book.epub: recipe_book/description.json
 	python mark2epub.py recipe_book recipe_book.epub
 
 unpack:
