@@ -1,0 +1,21 @@
+{
+"metadata":{
+    "dc:title":"Bears' Recipes",
+    "dc:creator":"Bears",
+    "dc:language":"en-US",
+    "dc:identifier":"bears-recipes",
+    "dc:source":"",
+    "meta":"",
+    "dc:date":"2025-08-20",
+    "dc:publisher":"",
+    "dc:contributor":"",
+    "dc:rights":"",
+    "dc:description":"",
+    "dc:subject":""
+    },
+"cover_image":"cover.png",
+"default_css":["general.css"],
+"chapters":[
+            {"markdown":"kftb.md","css":"","title":"Kellie's Favorite Toast Bread"}
+        ]
+}
