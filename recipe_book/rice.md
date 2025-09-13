@@ -23,10 +23,18 @@ Turn off the burner. Drain the rice in a collander and put it back into
 the pan. Stir in the butter. Cover the pan, put it back on the warm
 burner, and let it steam for at least 10 more minutes.
 
+**Brown Basmati Rice**
+
+- 1 cup brown basmati rice, rinsed
+- 1 cup water plus a little
+- pinch of salt
+
+Cook in the OnePot using the Multigrain low setting (20 minutes pressure steam).
+
 **Jasmine Rice**
 
 - 1 cup jasmine rice, rinsed
-- 1 cup water 
+- 1 cup water plus a little
 - pinch of salt
 
 Cook in the OnePot using the Rice setting (10 minutes pressure steam).

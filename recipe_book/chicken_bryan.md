@@ -17,11 +17,11 @@ Sauce:
 
 Chicken:
 
-i 6 large chicken breasts
-i 1-2 TBSP extra virgin olive oil
-i 1/2 tsp salt
-i 1/2 tsp black pepper
-i 8 oz goat cheese, softened to room temperature
+- 6 large chicken breasts
+- 1-2 TBSP extra virgin olive oil
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 8 oz goat cheese, softened to room temperature
 
 Prepare the sauce: Place butter, garlic, and onion in a large skillet
 over medium heat and saute until garlic and onion are tender and

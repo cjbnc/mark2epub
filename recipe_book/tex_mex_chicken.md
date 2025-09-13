@@ -2,7 +2,8 @@
 
 Sip and Feast - makes 4 large bowls
 
-For the sauce
+## Ingredients
+### For the sauce
 
 - 1 cup sour cream
 - 1/4 cup mayonnaise
@@ -12,9 +13,7 @@ For the sauce
 - 1 teaspoon kosher salt
 - 1 large jalapeno stem and seeds removed, plus more for garnish
 
-Blend all of the ingredients together until smooth and pour into a bowl.
-
-For the bowls
+### For the bowls
 
 - 1 1/2 pounds rotisserie chicken - chopped or pulled
 - Juice of 1 lime
@@ -27,7 +26,10 @@ For the bowls
 - 1/2 medium red onion - diced
 - Lime wedges - for garnish
 
-1. In a medium bowl, toss the chicken with the cumin, chili powder, and lime juice.  Taste test and season with salt and pepper and more seasoning or lime juice if needed.  Set aside.
-2. Place 1 cup of cooked rice into a bowl.
-3. Divide the chicken, black beans, cherry tomatoes, corn, and red onion. 
-4. Garnish with lime wedges and serve with the sauce.  Enjoy!
+## Directions 
+
+1. Blend all of the sauce ingredients together until smooth and pour into a bowl.
+2. In a medium bowl, toss the chicken with the cumin, chili powder, and lime juice.  Taste test and season with salt and pepper and more seasoning or lime juice if needed.  Set aside.
+3. Place 1 cup of cooked rice into a bowl.
+4. Divide the chicken, black beans, cherry tomatoes, corn, and red onion. 
+5. Garnish with lime wedges and serve with the sauce.  Enjoy!

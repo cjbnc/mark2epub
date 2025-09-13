@@ -7,4 +7,6 @@ unpack:
 xfer: recipe_book.epub
 	cp recipe_book.epub /home/nas/public/xfer
 
-
+force:
+	rm recipe_book.epub
+	python mark2epub.py recipe_book recipe_book.epub
