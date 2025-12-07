@@ -2,20 +2,21 @@
 
 ## Regular Rye Bread
 
-- 2 cups warm water
-- 2 TBSP yeast
-- 2 TBSP sugar
-- 1 TBSP salt
-- 1 TBSP oil
-- 1 TBSP caraway seeds (optional)
-- 2-1/2 cups rye flour
-- 3-1/2 cups bread flour
+- 2 cups (480g) warm water      or 360g
+- 2 TBSP yeast                  or 4 tsp
+- 2 TBSP sugar                  or 4 tsp
+- 1 TBSP salt                   or 2 tsp
+- 1 TBSP oil                    or 2 tsp
+- 1 TBSP caraway seeds          or 2 tsp
+- 2-1/2 cups (330g) rye flour   or 220g
+- 3-1/2 cups (460g) bread flour or 300g
+- 1 TBSP (10g) wheat gluten     or  10g
 
 Soften yeast in warm water with the sugar. Use dough hook on mixer.
-Add rye fliur, oil, and optional caraway seeds and mix together.
-Add salt and conitue mixing.
+Add rye flour, oil, and optional caraway seeds and mix together.
+Add salt and continue mixing.
 
-Add 2-3 cups of bread flour and continue mixing. Add enough more flour,
+Add 2-3 cups of bread flour and continue mixing. Add more flour,
 1/2 cup at a time, until the dough doesn't stick to the bowl. Knead
 in the mixer for 5 minutes.
 
@@ -25,6 +26,8 @@ or until doubled.
 Grease 2 8-inch bread pans. Punch down and knead the dough a bit.
 Divide in half, form into loaves, and place in pans. Cover with cloth
 and allow to rise until double.
+
+(Alternate ingredient amounts = 2/3rds recipe for 1 9-inch bread loaf)
 
 Bake at 375F for 40 minutes. Remove from pans and allow to cool.
 

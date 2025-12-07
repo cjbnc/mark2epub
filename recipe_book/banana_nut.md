@@ -26,3 +26,25 @@ Bake for 50 to 55 minutes or until a toothpick comes out clean. Cool in
 pan on a wire rack for 10 minutes. Remove from pan and cool completely.
 Wrap and store overnight before serving.
 
+# Banana Oatmeal Muffins
+
+Dry ingredients
+
+- 3/4 cup rolled oats
+- 3/4 cup all-purpose flour
+- 3 TBSP sugar
+- 3/4 tsp baking powder
+- 3/4 tsp baking soda
+- 1/8 tsp salt
+- 1/4 tsp cinnamon, or pie spice blend
+
+Wet Ingredients
+
+- 1 egg
+- 2 TBSP coconut oil, melted
+- 1/2 tsp vanilla extract
+- 2 ripe bananas
+
+Combine the dry ingredients. Mash the bananas and combine the wet ingredients.
+Mix the two bowls together. Dish into 6 muffin cups lined with paper.
+Bake at 375F for 18 minutes.
