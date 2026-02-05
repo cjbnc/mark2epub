@@ -10,3 +10,5 @@ xfer: recipe_book.epub
 force:
 	rm recipe_book.epub
 	python mark2epub.py recipe_book recipe_book.epub
+
+publish: xfer
