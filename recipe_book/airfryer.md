@@ -34,6 +34,15 @@
 - use OnePot to pressure steam with 1c water on meat cycle
 - AirFry 375F for 8 mins to crisp
 
+**Corn Chips**
+
+- pour oil in small plate
+- thoroughly coat a stack of 5 corn tortillas
+- microwave for 1 min
+- cut stack into six wedges
+- spread out on air fryer basket
+- AirFry at 325F for 8-10 mins
+
 **Taco Shells**
 
 - prop open, AirFry 325F for 3 mins
